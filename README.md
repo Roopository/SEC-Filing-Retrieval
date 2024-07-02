@@ -1,5 +1,4 @@
 # SEC Filing IR System
-### Team: Autumn Miloser, David Lisbonne, Hank Serr, Jiaying Cheng, Roope Pantsar, Shaan Patel
 
 
 
