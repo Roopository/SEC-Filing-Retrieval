@@ -1,6 +1,6 @@
 # SEC Filing IR System
 
-
+# Group: Roope Pantsar, Shaan Patel, Hank Serr, David Lisbonne
 
 ### `Goal & Objectives`
 
